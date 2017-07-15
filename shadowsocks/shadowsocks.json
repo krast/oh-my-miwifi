@@ -1,0 +1,9 @@
+{
+  "server":"a03.iladder.win",
+  "server_port":25,
+  "local_address":"127.0.0.1",
+  "local_port":1081,
+  "password":"ILADDER@2017",
+  "timeout":600,
+  "method":"chacha20"
+}
